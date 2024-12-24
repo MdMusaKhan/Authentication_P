@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #91a8d7;
+    color: rgb(8, 2, 2);
+  }
+  
+  .link {
+    margin: 0 1rem;
+    color: rgb(20, 4, 70);
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
